@@ -1,6 +1,4 @@
 
-Certainly! Below is a basic template for a README.md file for a register/login form:
-
 Register/Login Form
 This project implements a simple register/login form using [technologies/frameworks/libraries].
 
