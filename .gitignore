@@ -1,0 +1,28 @@
+# Node.js dependencies
+/frontend/node_modules
+
+# Environment variables (should not be committed)
+/frontend/.env
+
+# Editor/IDE specific files
+/frontend/.vscode/
+/frontend/.idea/
+
+# OS-specific files
+./frontend/DS_Store
+/frontend/Thumbs.db
+
+# Compiled files or build outputs
+/frontend//build
+/frontend//dist
+
+#misc
+/backend/.env
+
+# Logs
+/frontend//logs
+
+# Dependency lock files
+/frontend/package-lock.json
+/node_modules
+yarn.lock
